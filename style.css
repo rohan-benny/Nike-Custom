@@ -168,6 +168,11 @@ body::-webkit-scrollbar-thumb {
   padding-bottom: 30px;
 }
 
+.men-item:hover{
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.1);
+  transform: scale(1.02);
+}
+
 .men-item img{
   width: 400px;
   border-radius: 10px 10px 0 0;
